@@ -234,9 +234,9 @@ body{
   
   #particles-js{
   height: 0vh;
-  /*background-image: linear-gradient(rgba(,0.5),rgba(0,0,0,0.5);*/
+  background-image: linear-gradient(rgba(,0.5),rgba(0,0,0,0.5);*/
   background: black;
- /* background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);*/
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);*/
   }
   .font-footer a i{
   text-decoration: none;
@@ -264,21 +264,21 @@ body{
   top: -30000px;
 }
 }
-/*body{
+body{
   background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
             linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
             linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
-}*/
-/*header {
-/* display: flex;
+}
+header {
+ display: flex;
   align-items: center;
   justify-content: center;
   margin: 0px 0px;
- /* background-color: black;*/ 
-/*  padding: 20px;
+  background-color: black;*/ 
+ padding: 20px;
 }
-/*.navigation {*/
- /* display: inline;
+  .navigation {*/
+  display: inline;
   flex: 1;
   justify-content: space-around;
   position: absolute;
@@ -323,7 +323,7 @@ ul li a{
   border: 1px solid rgba(214, 36, 167, 0.17);
   animation: hehe 1s infinite;
   animation-direction: alternate;
- /* animation-duration: alternate;
+  animation-duration: alternate;
 }
 @keyframes hehe{
   0%{

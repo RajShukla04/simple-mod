@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');
+
+#main-content{
+  position: absolute;
+}
+.offline-img{
+  position: absolute;
+  height: 320px;
+  width: 100vw;
+  top: 270px;
+  left: 0;
+}
+#main-content h1{
+  font-size: 25px;
+  text-align: center;
+  position: relative;
+  top: 180px;
+  font-family: 'Nova Mono', monospace;
+  left: 15px;
+}
+h3{
+  text-align: center;
+  position: relative;
+  top: 240px;
+  font-size: 40px;
+  font-family: cursive;
+  text-decoration: underline;
+  color: white;
+}
